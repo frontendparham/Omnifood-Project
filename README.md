@@ -1,5 +1,5 @@
 # Omnifood-Project
-طراحی سایت ریسپانسیو برای یک شرکت فرضی ارائه دهنده غذا
+طراحی سایت ریسپانسیو برای یک شرکت فرضی تحویل غذا
 
 Omnifood is a premium food delivery company devoted to bring healthy and affordable meals to people in currently 4 cities.
 
