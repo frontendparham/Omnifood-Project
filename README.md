@@ -5,8 +5,7 @@ Omnifood is a premium food delivery company devoted to bring healthy and afforda
 
 With HTML, CSS and JAVASCRIPT (JQuery) for animations
 
-⚪ INSTRUCTION:
-       Just Download The Whole Code File (Via Download ZIP) then Open INDEX.HTML in Browser (Recommend: Chrome) 
+⚪ INSTRUCTION: Just Download All The Files (Via Download ZIP) then Open INDEX.HTML in Browser (Recommended: Chrome) 
 
 🟢 Also you can see the preview of Project in image_of_project File.
 
