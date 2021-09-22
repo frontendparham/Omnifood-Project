@@ -1,12 +1,38 @@
 # Omnifood-Project
 طراحی سایت ریسپانسیو برای یک شرکت فرضی تحویل غذا
 
-Omnifood is a premium food delivery company devoted to bring healthy and affordable meals to people in currently 4 cities.
+## Table of contents
 
-With HTML, CSS and JAVASCRIPT (JQuery) for animations
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-⚪ INSTRUCTION: Just Download All The Files (Via Download ZIP) then Open INDEX.HTML in Browser (Recommended: Chrome) 
+## Overview
 
-🟢 Also you can see the preview of Project in image_of_project File.
+### Screenshot
 
-Parham Tavakolian
+![](./omnifood.png)
+
+### Links
+
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/pizza-card/)
+
+## My process
+
+### Built with
+
+- HTML
+- CSS
+- JQuery
+- CSS Animation
+- Responsive Design
+
+## Author
+
+- Parham Tavakolian
+- Instagram - [@frontendparham](https://www.instagram.com/frontendparham)
+- GitHub - [@frontendparham](https://www.github.com/frontendparham)
+
