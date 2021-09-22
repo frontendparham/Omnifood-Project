@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/pizza-card/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Omnifood-Project/)
 
 ## My process
 
