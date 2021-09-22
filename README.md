@@ -4,17 +4,13 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Screenshot](#screenshot)
 
 ## Overview
-
-### Screenshot
-
-![](./omnifood.png)
 
 ### Links
 
@@ -36,3 +32,6 @@
 - Instagram - [@frontendparham](https://www.instagram.com/frontendparham)
 - GitHub - [@frontendparham](https://www.github.com/frontendparham)
 
+### Screenshot
+
+![](./omnifood.png)
