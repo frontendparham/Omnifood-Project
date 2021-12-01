@@ -1,5 +1,5 @@
 # Omnifood-Project
-طراحی سایت ریسپانسیو برای یک شرکت فرضی تحویل غذا
+Design a Responsive site for a food delivery company
 
 ## Table of contents
 
