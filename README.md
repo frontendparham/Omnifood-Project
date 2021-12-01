@@ -15,6 +15,7 @@ Design a Responsive site for a food delivery company
 ### Links
 
 - Live Site URL: [GitHub Pages](https://frontendparham.github.io/Omnifood-Project/)
+- Live Site URL: [Netlify](https://food-delivery-omnifood.netlify.app/)
 
 ## My process
 
